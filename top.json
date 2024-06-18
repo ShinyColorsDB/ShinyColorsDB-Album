@@ -1200,9 +1200,280 @@
                     "priority": 340
                 }
             }
+        },
+        {
+            "fesTrendBanner": {
+                "announce": {
+                    "announceType": "event",
+                    "closeAt": 2524608000,
+                    "contentCloseAt": null,
+                    "contentDisplayPriority": 0,
+                    "contentOpenAt": null,
+                    "deviceType": 15,
+                    "displayConditions": [],
+                    "displayLabelEndAt": 1714975200,
+                    "hasThumbnail": true,
+                    "hash": "6d7b7bafcd835261647ad872d1676fc3",
+                    "id": "5186",
+                    "isContent": false,
+                    "isDisplay": true,
+                    "isPickup": false,
+                    "openAt": 1714370400,
+                    "outsideCampaignUrl": "",
+                    "priority": 0,
+                    "relativeContentId": "0",
+                    "relativeContentType": "none",
+                    "secret": "",
+                    "shouldGetAnnounce": false,
+                    "shouldShowPfPopup": false,
+                    "shouldShowUpdateLabel": false,
+                    "ticketEntryHash": "",
+                    "ticketEntryURL": "",
+                    "title": "今回のフェスについて",
+                    "topicCloseAt": null,
+                    "topicDisplayPriority": 0,
+                    "topicOpenAt": null,
+                    "updatedAt": 1714036587
+                },
+                "id": "240",
+                "text": "4/29 ～ 5/9",
+                "updatedAt": 1714036613
+            },
+            "selectedFesIdolRank": {
+                "groupId": "7",
+                "id": "72",
+                "image": "s3",
+                "rank": "S",
+                "requiredPoint": 2640
+            },
+            "selectedIdol": {
+                "character": {
+                    "name": "黛冬優子"
+                },
+                "characterId": "18",
+                "hash": "857d966d6498e5d59608b53753829002",
+                "id": "1040180060"
+            },
+            "userFesHonorNews": {
+                "bottomFesHonorIdolNicknameWord": {
+                    "comment": "歌姫",
+                    "id": "23",
+                    "isNew": false,
+                    "kind": "normal",
+                    "name": "キャッチコピー「歌姫」",
+                    "priority": 320
+                },
+                "closeAt": 1715353199,
+                "fesHonorIdolNicknameConjunction": {
+                    "comment": "のような",
+                    "id": "6",
+                    "priority": 150
+                },
+                "fesMatchGrade": {
+                    "grade": 6,
+                    "id": "6",
+                    "rival_count": 5
+                },
+                "fesMatchRanking": {
+                    "closeAt": 1715224499,
+                    "endAt": 1715223599,
+                    "openAt": 1714370400
+                },
+                "fesMatchRankingRank": 1032,
+                "fesSeason": {
+                    "closeAt": 1715223599,
+                    "openAt": 1714370400,
+                    "trends": [
+                        {
+                            "genre": "visual",
+                            "groupId": "5",
+                            "id": "13",
+                            "order": 1,
+                            "value": 100
+                        },
+                        {
+                            "genre": "vocal",
+                            "groupId": "5",
+                            "id": "14",
+                            "order": 2,
+                            "value": 100
+                        },
+                        {
+                            "genre": "dance",
+                            "groupId": "5",
+                            "id": "15",
+                            "order": 3,
+                            "value": 100
+                        }
+                    ]
+                },
+                "id": "53397",
+                "isCompleted": true,
+                "topFesHonorIdolNicknameWord": {
+                    "comment": "天使",
+                    "id": "21",
+                    "isNew": false,
+                    "kind": "normal",
+                    "name": "キャッチコピー「天使」",
+                    "priority": 300
+                }
+            }
         }
     ],
     "gameEvents": [
+        {
+            "bgm": "031",
+            "closeAt": 1717729199,
+            "communications": [
+                {
+                    "canRead": true,
+                    "canReadWithCampaign": false,
+                    "canReleaseWithItem": false,
+                    "chapterNumber": 7401,
+                    "freeCampaignOpenAt": null,
+                    "gameEventId": "127",
+                    "hash": "3f86e630820f4ad5e9097847175ff6aa",
+                    "id": "400107401",
+                    "isNew": false,
+                    "isPrologue": true,
+                    "isReleased": true,
+                    "limitNum": 1,
+                    "name": "オープニング",
+                    "releaseOpenAt": 1717038000,
+                    "title": "VIBES GROOVE"
+                },
+                {
+                    "canRead": true,
+                    "canReadWithCampaign": false,
+                    "canReleaseWithItem": false,
+                    "chapterNumber": 7402,
+                    "freeCampaignOpenAt": null,
+                    "gameEventId": "127",
+                    "hash": "8dc9a3a3cb2efb117a6a06565e9ec1dc",
+                    "id": "400107402",
+                    "isNew": false,
+                    "isPrologue": false,
+                    "isReleased": true,
+                    "limitNum": 1,
+                    "name": "第1話",
+                    "releaseOpenAt": 1717038000,
+                    "title": "２と１"
+                },
+                {
+                    "canRead": true,
+                    "canReadWithCampaign": false,
+                    "canReleaseWithItem": false,
+                    "chapterNumber": 7403,
+                    "freeCampaignOpenAt": null,
+                    "gameEventId": "127",
+                    "hash": "ac97fa5f56f93e46434a2573e895b07c",
+                    "id": "400107403",
+                    "isNew": false,
+                    "isPrologue": false,
+                    "isReleased": true,
+                    "limitNum": 1,
+                    "name": "第2話",
+                    "releaseOpenAt": 1717038000,
+                    "title": "２１２"
+                },
+                {
+                    "canRead": true,
+                    "canReadWithCampaign": false,
+                    "canReleaseWithItem": false,
+                    "chapterNumber": 7404,
+                    "freeCampaignOpenAt": null,
+                    "gameEventId": "127",
+                    "hash": "8887d4252878741b6d1f5abcab9f4e07",
+                    "id": "400107404",
+                    "isNew": false,
+                    "isPrologue": false,
+                    "isReleased": true,
+                    "limitNum": 1,
+                    "name": "第3話",
+                    "releaseOpenAt": 1717038000,
+                    "title": "たがい"
+                },
+                {
+                    "canRead": true,
+                    "canReadWithCampaign": false,
+                    "canReleaseWithItem": false,
+                    "chapterNumber": 7405,
+                    "freeCampaignOpenAt": null,
+                    "gameEventId": "127",
+                    "hash": "4de0e0d415900c88e5790f74ac982bad",
+                    "id": "400107405",
+                    "isNew": false,
+                    "isPrologue": false,
+                    "isReleased": true,
+                    "limitNum": 1,
+                    "name": "第4話",
+                    "releaseOpenAt": 1717038000,
+                    "title": "下手くそな人人人人"
+                },
+                {
+                    "canRead": true,
+                    "canReadWithCampaign": false,
+                    "canReleaseWithItem": false,
+                    "chapterNumber": 7406,
+                    "freeCampaignOpenAt": null,
+                    "gameEventId": "127",
+                    "hash": "8c912bed5e9811826734b9166de5249b",
+                    "id": "400107406",
+                    "isNew": false,
+                    "isPrologue": false,
+                    "isReleased": true,
+                    "limitNum": 1,
+                    "name": "第5話",
+                    "releaseOpenAt": 1717038000,
+                    "title": "ドーナツホール"
+                },
+                {
+                    "canRead": true,
+                    "canReadWithCampaign": false,
+                    "canReleaseWithItem": false,
+                    "chapterNumber": 7407,
+                    "freeCampaignOpenAt": null,
+                    "gameEventId": "127",
+                    "hash": "9dd0af7f721de551aa578002c006c963",
+                    "id": "400107407",
+                    "isNew": false,
+                    "isPrologue": false,
+                    "isReleased": true,
+                    "limitNum": 1,
+                    "name": "第6話",
+                    "releaseOpenAt": 1717038000,
+                    "title": "If you don't know"
+                },
+                {
+                    "canRead": true,
+                    "canReadWithCampaign": false,
+                    "canReleaseWithItem": false,
+                    "chapterNumber": 7408,
+                    "freeCampaignOpenAt": null,
+                    "gameEventId": "127",
+                    "hash": "479cddff8df1b66e667625422107978b",
+                    "id": "400107408",
+                    "isNew": false,
+                    "isPrologue": false,
+                    "isReleased": true,
+                    "limitNum": 1,
+                    "name": "エンディング",
+                    "releaseOpenAt": 1717038000,
+                    "title": "I didn't know that."
+                }
+            ],
+            "eventType": "produce_marathon",
+            "hash": "",
+            "id": "127",
+            "name": "THE（CoMETIK）EPISODE",
+            "openAt": 1717038000,
+            "originGameEventId": "0",
+            "pointType": "scenario_event_point",
+            "priority": 16,
+            "rewardCloseAt": 1718333999,
+            "rewardOpenAt": 1717038000,
+            "unitId": "8"
+        },
         {
             "bgm": "031",
             "closeAt": 1715223599,
@@ -1216,7 +1487,7 @@
                     "gameEventId": "125",
                     "hash": "704890398ddba7820456b5db31d24e91",
                     "id": "400107301",
-                    "isNew": true,
+                    "isNew": false,
                     "isPrologue": true,
                     "isReleased": true,
                     "limitNum": 1,
@@ -1225,7 +1496,7 @@
                     "title": "停電"
                 },
                 {
-                    "canRead": false,
+                    "canRead": true,
                     "canReadWithCampaign": false,
                     "canReleaseWithItem": false,
                     "chapterNumber": 7302,
@@ -1233,7 +1504,7 @@
                     "gameEventId": "125",
                     "hash": "c4f6a9d7b1e9e9a75fd9de267504883b",
                     "id": "400107302",
-                    "isNew": true,
+                    "isNew": false,
                     "isPrologue": false,
                     "isReleased": true,
                     "limitNum": 1,
@@ -1242,7 +1513,7 @@
                     "title": "カーテンのリアリズム"
                 },
                 {
-                    "canRead": false,
+                    "canRead": true,
                     "canReadWithCampaign": false,
                     "canReleaseWithItem": false,
                     "chapterNumber": 7303,
@@ -1250,7 +1521,7 @@
                     "gameEventId": "125",
                     "hash": "d933474eb8f4a304bdef4b23ea93bc89",
                     "id": "400107303",
-                    "isNew": true,
+                    "isNew": false,
                     "isPrologue": false,
                     "isReleased": true,
                     "limitNum": 1,
@@ -1259,7 +1530,7 @@
                     "title": "ナラティブⅡ"
                 },
                 {
-                    "canRead": false,
+                    "canRead": true,
                     "canReadWithCampaign": false,
                     "canReleaseWithItem": false,
                     "chapterNumber": 7304,
@@ -1267,7 +1538,7 @@
                     "gameEventId": "125",
                     "hash": "9ac6e8e7c553288e99932700e77b77a9",
                     "id": "400107304",
-                    "isNew": true,
+                    "isNew": false,
                     "isPrologue": false,
                     "isReleased": true,
                     "limitNum": 1,
@@ -1276,7 +1547,7 @@
                     "title": "ナラティブⅢ"
                 },
                 {
-                    "canRead": false,
+                    "canRead": true,
                     "canReadWithCampaign": false,
                     "canReleaseWithItem": false,
                     "chapterNumber": 7305,
@@ -1284,7 +1555,7 @@
                     "gameEventId": "125",
                     "hash": "78d5b2220bff73c959f8fd17419be73e",
                     "id": "400107305",
-                    "isNew": true,
+                    "isNew": false,
                     "isPrologue": false,
                     "isReleased": true,
                     "limitNum": 1,
@@ -1293,7 +1564,7 @@
                     "title": "ナラティブⅣ"
                 },
                 {
-                    "canRead": false,
+                    "canRead": true,
                     "canReadWithCampaign": false,
                     "canReleaseWithItem": false,
                     "chapterNumber": 7306,
@@ -1301,7 +1572,7 @@
                     "gameEventId": "125",
                     "hash": "07c86d20677114208da41a744c0f4954",
                     "id": "400107306",
-                    "isNew": true,
+                    "isNew": false,
                     "isPrologue": false,
                     "isReleased": true,
                     "limitNum": 1,
@@ -1310,7 +1581,7 @@
                     "title": "そういう世界"
                 },
                 {
-                    "canRead": false,
+                    "canRead": true,
                     "canReadWithCampaign": false,
                     "canReleaseWithItem": false,
                     "chapterNumber": 7307,
@@ -1318,7 +1589,7 @@
                     "gameEventId": "125",
                     "hash": "49aaf04c27e9166714dd2b2477e03a85",
                     "id": "400107307",
-                    "isNew": true,
+                    "isNew": false,
                     "isPrologue": false,
                     "isReleased": true,
                     "limitNum": 1,
@@ -1327,7 +1598,7 @@
                     "title": "汎光"
                 },
                 {
-                    "canRead": false,
+                    "canRead": true,
                     "canReadWithCampaign": false,
                     "canReleaseWithItem": false,
                     "chapterNumber": 7308,
@@ -1335,7 +1606,7 @@
                     "gameEventId": "125",
                     "hash": "0a844a4071b43571028c236dae5d68fb",
                     "id": "400107308",
-                    "isNew": true,
+                    "isNew": false,
                     "isPrologue": false,
                     "isReleased": true,
                     "limitNum": 1,
@@ -1369,7 +1640,7 @@
                     "gameEventId": "123",
                     "hash": "7ed0b7945ec53a80c2b53fec5da89f05",
                     "id": "400107201",
-                    "isNew": true,
+                    "isNew": false,
                     "isPrologue": true,
                     "isReleased": true,
                     "limitNum": 1,
@@ -1378,7 +1649,7 @@
                     "title": "CONSIDERATION"
                 },
                 {
-                    "canRead": false,
+                    "canRead": true,
                     "canReadWithCampaign": false,
                     "canReleaseWithItem": false,
                     "chapterNumber": 7202,
@@ -1386,7 +1657,7 @@
                     "gameEventId": "123",
                     "hash": "685067d764f34a4e533339401b4885e4",
                     "id": "400107202",
-                    "isNew": true,
+                    "isNew": false,
                     "isPrologue": false,
                     "isReleased": true,
                     "limitNum": 1,
@@ -1395,7 +1666,7 @@
                     "title": "SHARING"
                 },
                 {
-                    "canRead": false,
+                    "canRead": true,
                     "canReadWithCampaign": false,
                     "canReleaseWithItem": false,
                     "chapterNumber": 7203,
@@ -1403,7 +1674,7 @@
                     "gameEventId": "123",
                     "hash": "658e57c5d096735eb7a095517fa2b3c5",
                     "id": "400107203",
-                    "isNew": true,
+                    "isNew": false,
                     "isPrologue": false,
                     "isReleased": true,
                     "limitNum": 1,
@@ -1412,7 +1683,7 @@
                     "title": "ADORE"
                 },
                 {
-                    "canRead": false,
+                    "canRead": true,
                     "canReadWithCampaign": false,
                     "canReleaseWithItem": false,
                     "chapterNumber": 7204,
@@ -1420,7 +1691,7 @@
                     "gameEventId": "123",
                     "hash": "1b7e7c06b5b670b2a88d6c1c5cb0ed1a",
                     "id": "400107204",
-                    "isNew": true,
+                    "isNew": false,
                     "isPrologue": false,
                     "isReleased": true,
                     "limitNum": 1,
@@ -1429,7 +1700,7 @@
                     "title": "NAIVE"
                 },
                 {
-                    "canRead": false,
+                    "canRead": true,
                     "canReadWithCampaign": false,
                     "canReleaseWithItem": false,
                     "chapterNumber": 7205,
@@ -1437,7 +1708,7 @@
                     "gameEventId": "123",
                     "hash": "27b21245037d5b435fc54e9b045b8126",
                     "id": "400107205",
-                    "isNew": true,
+                    "isNew": false,
                     "isPrologue": false,
                     "isReleased": true,
                     "limitNum": 1,
@@ -1446,7 +1717,7 @@
                     "title": "SHELL"
                 },
                 {
-                    "canRead": false,
+                    "canRead": true,
                     "canReadWithCampaign": false,
                     "canReleaseWithItem": false,
                     "chapterNumber": 7206,
@@ -1454,7 +1725,7 @@
                     "gameEventId": "123",
                     "hash": "1dcc6cc18038e801d0674d43fcf45ba8",
                     "id": "400107206",
-                    "isNew": true,
+                    "isNew": false,
                     "isPrologue": false,
                     "isReleased": true,
                     "limitNum": 1,
@@ -1463,7 +1734,7 @@
                     "title": "BREAK OUT !"
                 },
                 {
-                    "canRead": false,
+                    "canRead": true,
                     "canReadWithCampaign": false,
                     "canReleaseWithItem": false,
                     "chapterNumber": 7207,
@@ -1471,7 +1742,7 @@
                     "gameEventId": "123",
                     "hash": "0be3bec5a7307e793c82b0c69b8926a8",
                     "id": "400107207",
-                    "isNew": true,
+                    "isNew": false,
                     "isPrologue": false,
                     "isReleased": true,
                     "limitNum": 1,
@@ -1480,7 +1751,7 @@
                     "title": "FRIEND"
                 },
                 {
-                    "canRead": false,
+                    "canRead": true,
                     "canReadWithCampaign": false,
                     "canReleaseWithItem": false,
                     "chapterNumber": 7208,
@@ -1488,7 +1759,7 @@
                     "gameEventId": "123",
                     "hash": "b9d9426a2dc661032eced1f3e28bcdb1",
                     "id": "400107208",
-                    "isNew": true,
+                    "isNew": false,
                     "isPrologue": false,
                     "isReleased": true,
                     "limitNum": 1,
@@ -12402,7 +12673,7 @@
                     "id": "490150001",
                     "isCharacterSelect": false,
                     "isJumpable": false,
-                    "isNew": true,
+                    "isNew": false,
                     "isPrologue": false,
                     "isReleased": true,
                     "name": "6th Anniversary",
@@ -12421,7 +12692,7 @@
                     "id": "490150002",
                     "isCharacterSelect": false,
                     "isJumpable": false,
-                    "isNew": true,
+                    "isNew": false,
                     "isPrologue": false,
                     "isReleased": true,
                     "name": "6th Anniversary",
@@ -12440,7 +12711,7 @@
                     "id": "490150003",
                     "isCharacterSelect": false,
                     "isJumpable": false,
-                    "isNew": true,
+                    "isNew": false,
                     "isPrologue": false,
                     "isReleased": true,
                     "name": "6th Anniversary",
@@ -12459,7 +12730,7 @@
                     "id": "490150004",
                     "isCharacterSelect": false,
                     "isJumpable": false,
-                    "isNew": true,
+                    "isNew": false,
                     "isPrologue": false,
                     "isReleased": true,
                     "name": "6th Anniversary",
@@ -12497,7 +12768,7 @@
                     "id": "490150006",
                     "isCharacterSelect": false,
                     "isJumpable": false,
-                    "isNew": true,
+                    "isNew": false,
                     "isPrologue": false,
                     "isReleased": true,
                     "name": "6th Anniversary",
@@ -12516,7 +12787,7 @@
                     "id": "490150007",
                     "isCharacterSelect": false,
                     "isJumpable": false,
-                    "isNew": true,
+                    "isNew": false,
                     "isPrologue": false,
                     "isReleased": true,
                     "name": "6th Anniversary",
@@ -12535,7 +12806,7 @@
                     "id": "490150008",
                     "isCharacterSelect": false,
                     "isJumpable": false,
-                    "isNew": true,
+                    "isNew": false,
                     "isPrologue": false,
                     "isReleased": true,
                     "name": "6th Anniversary",
@@ -19955,6 +20226,6 @@
         },
         "exchangeItemId": "2",
         "id": "3780660",
-        "num": 1673
+        "num": 1687
     }
 }
